@@ -78,7 +78,9 @@ My focus lies in designing efficient digital architectures, verifying them with 
 
 ---
 
+<!-- 
 ## 📊 <span style="color:#00ADB5;">GitHub</span> <span style="color:#0088FF;">Stats</span>  
+-->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vitthalkanase&show_icons=true&theme=radical&hide_border=true" height="165">
