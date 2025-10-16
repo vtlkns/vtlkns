@@ -80,14 +80,14 @@ My focus lies in designing efficient digital architectures, verifying them with 
 
 ## 📊 <span style="color:#00ADB5;">GitHub</span> <span style="color:#0088FF;">Stats</span>  
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vitthalkanase&show_icons=true&theme=radical&hide_border=true" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitthalkanase&theme=radical&hide_border=true" height="165">
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitthalkanase&layout=compact&theme=radical&hide_border=true" height="150">
-</p>
+</p> -->
 
 ---
 
