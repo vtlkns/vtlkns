@@ -53,6 +53,7 @@ My focus lies in designing efficient digital architectures, verifying them with 
 <p align="center">
   <img src="https://img.shields.io/badge/Cadence-%23E60012.svg?style=for-the-badge&logoColor=white" alt="Cadence"/>
   <img src="https://img.shields.io/badge/Vivado-%23007ACC.svg?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado"/>
+  <img src="https://img.shields.io/badge/Verilog-%231F6F00.svg?style=for-the-badge" alt="Verilog"/>
   <img src="https://img.shields.io/badge/SystemVerilog-%23FF6F00.svg?style=for-the-badge" alt="SystemVerilog"/>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TCL-%233E8EDE.svg?style=for-the-badge" alt="TCL"/>
